@@ -1,9 +1,14 @@
 """
-Plot the energy spectra for the Hamiltonian of two coupled SSH chains system defined in the article:
+Plot the energy spectra for the Hamiltonian of two coupled SSH chains 
+system defined in the article:
 
-Li, C., Lin, S., Zhang, G., & Song, Z. (2017). Topological nodal points in two coupled Su-Schrieffer-Heeger chains. Physical Review B, 96(12), 125418.
+Li, C., Lin, S., Zhang, G., & Song, Z. (2017). Topological nodal 
+points in two coupled Su-Schrieffer-Heeger chains. Physical Review B, 
+96(12), 125418.
 
-as a function of the hoppings v/t on a 2xN ladder with open boundary condition. The script is able to reproduce FIG.3. from Li, et al. (2017) 
+as a function of the hoppings v/t on a 2xN ladder with open boundary 
+condition. The script is able to reproduce FIG.3. from Li, et al. 
+(2017) 
 
 Author: Carla Borja Espinosa
 Date: October 2019
